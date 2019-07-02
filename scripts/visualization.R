@@ -1,4 +1,5 @@
 # Created: July 2, 2019 (Galen Palowitch)
+# Last Updated: July 2, 2019 (Galen Palowitch)
 
 # Importing tidyverse
 library(tidyverse)
@@ -10,4 +11,6 @@ mpg
 ggplot(data = mpg) + 
   geom_point(mapping = aes(x = displ, y = hwy, color = cty > 19)) +
   facet_wrap( . ~ class)
-FSIUFJKDSFJKNFJDFJKNDFKJDFKJN
+
+#FSIUFJKDSFJKNFJDFJKNDFKJDFKJN
+#IUHJKFMEOIUYGHJMEFUCKDVOJVUBB
